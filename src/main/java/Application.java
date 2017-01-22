@@ -15,6 +15,7 @@ System.out.println("Greeting: " + greeting);
 
     public Application() {
         System.out.println ("Inside Application");
+	    System.out.println ("Checking for jenkins");
     }
 
 
