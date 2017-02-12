@@ -17,6 +17,8 @@ System.out.println("Greeting: " + greeting);
         System.out.println ("Inside Application");
 	    System.out.println ("Checking for jenkins");
 	    System.out.println ("Commiting for checking deployment");
+	    System.out.println ("Again commiting for checking jenkins poll scm");
+	    
     }
 
 
